@@ -1,2 +1,16 @@
-
-/* Your CSS Code here. */
+img{
+    width:200px;
+    margin:20px 20px;
+    border-radius: 20px;
+    border:none;
+}
+section{
+    margin:20px 20px;
+}
+body{
+    width:100vw;
+    height:100vh;
+}
+div{
+    margin:20px 20px;
+}
